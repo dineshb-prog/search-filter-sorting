@@ -1,0 +1,92 @@
+{
+    "users": [
+        {
+            "name": "jhon",
+            "email": "jhon@gmail.com",
+            "phone": "1234567890",
+            "address": "uk",
+            "id": 1,
+            "status": "Active"
+        },
+        {
+            "name": "james",
+            "email": "james@gmail.com",
+            "phone": "1234567890",
+            "address": "usa",
+            "id": 2,
+            "status": "Inactive"
+        },
+        {
+            "name": "jenny",
+            "email": "jenny@gmail.com",
+            "phone": "1234567890",
+            "address": "india",
+            "id": 3,
+            "status": "Active"
+        },
+        {
+            "name": "jack",
+            "email": "jack@gmail.com",
+            "phone": "1234567890",
+            "address": "china",
+            "id": 4,
+            "status": "Inactive"
+        },
+        {
+            "name": "zammy",
+            "email": "zammy@gmail.com",
+            "phone": "1234567890",
+            "address": "germany",
+            "id": 5,
+            "status": "Active"
+        },
+        {
+            "name": "creo",
+            "email": "creo@gmail.com",
+            "phone": "1234567890",
+            "address": "norway",
+            "id": 6,
+            "status": "Inactive"
+        },
+        {
+            "name": "kali",
+            "email": "kali@gmail.com",
+            "phone": "1234567890",
+            "address": "japan",
+            "id": 7,
+            "status": "Inactive"
+        },
+        {
+            "name": "krish",
+            "email": "krish@gmail.com",
+            "phone": "1234567890",
+            "address": "swiss",
+            "id": 8,
+            "status": "Inactive"
+        },
+        {
+            "name": "kholi",
+            "email": "kholi@gmail.com",
+            "phone": "1234567890",
+            "address": "Africa",
+            "id": 9,
+            "status": "Active"
+        },
+        {
+            "name": "dhoni",
+            "email": "dhoni@gmail.com",
+            "phone": "1234567890",
+            "address": "india",
+            "id": 10,
+            "status": "Active"
+        },
+          {
+            "name": "Rajini",
+            "email": "rajini@gmail.com",
+            "phone": "1234567890",
+            "address": "india",
+            "id": 11,
+            "status": "Active"
+        }
+    ]
+}
